@@ -37,6 +37,6 @@ submitBtn = Button(root, text = 'Submit', highlightbackground = 'white', command
 submitBtn.place(x = 250, y = 240)
 submitBtn.config(font = ('Courier', 28))
 
-root.title('Pass Man')
+root.title('Pass Man by KingMak')
 root.resizable(0, 0)
 root.mainloop()
